@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/list_date_view"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="22-Aug-2019"
+        android:fontFamily="@font/fira_reg"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/strt_time_textview"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_weight="1"
+        android:text="08:00 AM"
+        android:fontFamily="@font/fira_reg"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/end_time_textview"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_weight="1"
+        android:text="18:00 PM"
+        android:fontFamily="@font/fira_reg"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/ovrt_hrs_textview"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:text="99 hrs"
+        android:fontFamily="@font/fira_reg"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/ovrt_mins_textview"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="25dp"
+        android:text="0 mins"
+        android:fontFamily="@font/fira_reg"
+        android:textSize="16sp"
+        />
+</LinearLayout>
