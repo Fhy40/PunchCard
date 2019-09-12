@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478296245776",
+    "firebase_url": "https://punchcardhastati.firebaseio.com",
+    "project_id": "punchcardhastati",
+    "storage_bucket": "punchcardhastati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478296245776:android:5e9e24e8b6874f0c",
+        "android_client_info": {
+          "package_name": "com.example.punchcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478296245776-i9dlgqf1t2k1n0rsa272qh8tmg57qq3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbRK-gWdDRnPHQ0rnTEDLIK4N9fIe3i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478296245776-i9dlgqf1t2k1n0rsa272qh8tmg57qq3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
